@@ -47,6 +47,13 @@ body {
   margin: auto;
 }
 
+footer {
+  background-color: grey;
+  color: white;
+  background-size: cover;
+  margin: auto;
+}
+
 
 h2 {
   margin: 0 0 0 30px;
