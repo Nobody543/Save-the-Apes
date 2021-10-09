@@ -1,0 +1,147 @@
+p {
+  color: white;
+  margin: 0 0 0 30px;
+  font-size: 23px
+}
+
+
+header {
+  position: fixed;
+  border-bottom: 1px solid;
+  width: 100%;
+  z-index: 10;
+  background-color: #1ABE24;
+}
+ul {
+  text-align: center;
+  margin: 0px auto;
+}
+li {
+  font-family: sans-serif;
+  color: #3EF948;
+  font-size: 35px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 33%;
+  padding: 30px 0 30px 0
+}
+
+}
+.rmn {
+  z-index: 3
+}
+.fmn {
+  z-index: 2
+}
+
+.nm {
+  margin: 0;
+}
+
+
+body {
+  background-image: url("file:///Users/Ned/Documents/Project%20Q/Screen%20Shot%202021-08-22%20at%2014.49.35.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+
+
+h2 {
+  margin: 0 0 0 30px;
+}
+h3 {
+  margin: 0 0 0 30px;
+}
+
+
+
+.hd {
+  border-bottom: 1px solid;
+  width: 100%;
+  z-index: 1;
+  background-color: #1ABE24;
+  margin: 0 0 0 0
+}
+
+.heading-background {
+  background-color: #1ABE24;
+  z-index: 1
+}
+
+.colorchange {
+  color: maroon;
+}
+
+#uppercase {
+  text-transform: uppercase;
+}
+
+#cursive {
+  font-family: cursive;
+}
+
+[href]{
+  color: #3EF948
+}
+
+img[src*='nationalzoo'] {
+  height: 75px;
+}
+
+a:hover {
+  color: darkorange;
+}
+
+h2.destination {
+  font-family: Tahoma;
+}
+
+.purplelist li {
+  color: purple;
+}
+
+h3,
+.or {
+  font-family: Georgia;
+}
+
+
+
+
+
+@media only screen and (max-width: 836px) {
+  .hd {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 835px) {
+  nav ul li {
+    display: none;
+  }
+}
+@media only screen and (min-width: 835px) {
+  .fmn {
+    display: none;
+  }
+}
+@media only screen and (max-width: 990px) {
+  .nm img {
+    display: block;
+    width: 90%;
+    padding: 30px
+  }
+}
+
+
+nav ul ul {
+  display: none;
+}
+nav ul li:hover + ul {
+  display: block;
+}
+nav ul ul:hover{
+  display: block;
+}
