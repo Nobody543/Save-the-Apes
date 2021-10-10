@@ -53,6 +53,8 @@ footer {
   background-size: cover;
   margin: auto;
   text-align: center;
+  position: relative;
+  bottom: 0px;
 }
 
 
