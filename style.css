@@ -7,7 +7,6 @@ p {
 
 header {
   position: fixed;
-  top: 0px;
   border-bottom: 1px solid;
   width: 100%;
   z-index: 10;
