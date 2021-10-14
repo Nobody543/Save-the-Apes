@@ -10,7 +10,8 @@ header {
   border-bottom: 1px solid;
   width: 100%;
   z-index: 10;
-  background-color: #1ABE24;
+  background-color: #q1ABE24;
+  margin-bottom: 20px;
 }
 ul {
   text-align: center;
@@ -37,6 +38,10 @@ li {
 
 .nm {
   margin: 0;
+}
+
+.text {
+  margin-top: 30px
 }
 
 
