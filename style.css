@@ -7,7 +7,7 @@ p {
 
 header {
   position: fixed;
-  border-bottom: 1px solid;
+  border-bottom: 1px clear;
   width: 100%;
   z-index: 10;
   background-color: #1ABE24;
