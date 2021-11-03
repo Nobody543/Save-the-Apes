@@ -47,6 +47,10 @@ li {
 }
 
 
+.rfbg {
+  background-image: url("IMG_6110.jpeg");
+}
+
 body {
   background-image: url("Orangutan.png");
   background-repeat: no-repeat;
