@@ -10,7 +10,7 @@ header {
   border-bottom: 1px clear;
   width: 100%;
   z-index: 10;
-  background-color: #1ABE24;
+  background-color: #2F4600;
   margin-bottom: 20px;
 }
 ul {
@@ -31,11 +31,11 @@ li {
 }
 .rmn {
   z-index: 3;
-  background-color: #1ABE24;
+  background-color: #2F4600;
 }
 .fmn {
   z-index: 2;
-  background-color: #1ABE24;
+  background-color: #2F4600;
 }
 
 .nm {
@@ -82,12 +82,12 @@ h3 {
   border-bottom: 1px solid;
   width: 100%;
   z-index: 1;
-  background-color: #1ABE24;
+  background-color: #2F4600;
   margin: 0 0 0 0
 }
 
 .heading-background {
-  background-color: #1ABE24;
+  background-color: #2F4600;
   z-index: 1
 }
 
@@ -104,7 +104,7 @@ h3 {
 }
 
 [href]{
-  color: #3EF948
+  color: #A2C523
 }
 
 img[src*='nationalzoo'] {
