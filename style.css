@@ -60,7 +60,10 @@ li {
 }
 
 .crfbg {
-  background-image: url("rainforest_img_cropped.png"
+  background-image: url("rainforest_img_cropped.png";
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
 }
 
 body {
