@@ -57,6 +57,8 @@ li {
 
 .rfbg {
   background-image: url("rainforest_img_cropped.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
 }
 
 body {
