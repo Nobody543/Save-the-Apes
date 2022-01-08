@@ -80,7 +80,7 @@ body {
 
 .footer{
   color: white;
-  background-image: '3D386BBB-1A8C-4CEE-B812-F54FC53F1E7B.jpeg';
+  background-image: url("3D386BBB-1A8C-4CEE-B812-F54FC53F1E7B.jpeg");
   margin: 0 0 0 30px;
   text-align: center;
   bottom: 0;
