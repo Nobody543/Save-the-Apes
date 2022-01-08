@@ -84,7 +84,7 @@ body {
   margin: 0 0 0 30px;
   text-align: center;
   bottom: 0;
-  background-size: cover;
+  background-width: 100%;
   font-size: 23px;
 }
 
