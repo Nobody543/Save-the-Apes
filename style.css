@@ -1,5 +1,5 @@
 p {
-  color: white;
+  color: grey;
   margin: 0 0 0 30px;
   font-size: 23px
 }
@@ -66,13 +66,15 @@ li {
 
 .rbg {
   background-image: url("rainforest_img_cropped.png");
+  background-position: center;
+  height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   margin: auto;
 }
 
 .bbg {
-  background-color: black
+  background-color: white;
 }
 
 body {
