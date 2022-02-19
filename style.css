@@ -67,6 +67,7 @@ li {
 .ri {
   height: 100%;
   width: 100%;
+  max-width: 1350px;
   object-fit: cover;
 }
 
