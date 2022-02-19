@@ -64,6 +64,12 @@ li {
   margin: auto;
 }
 
+.ri {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
 .rbg {
   background-image: url("rainforest_img_cropped.png");
   background-position: center;
