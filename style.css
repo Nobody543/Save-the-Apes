@@ -149,6 +149,152 @@ h3 {
   color: #A2C523
 }
 
+p {
+  color: grey;
+  margin: 0 0 0 30px;
+  font-size: 23px
+}
+
+
+header {
+  position: fixed;
+  border-bottom: 1px clear;
+  width: 100%;
+  z-index: 10;
+  background-color: #2F4600;
+  margin-bottom: 20px;
+}
+ul {
+  text-align: center;
+  margin: 0px auto;
+}
+li {
+  font-family: sans-serif;
+  color: #3EF948;
+  font-size: 35px;
+  font-weight: 300;
+  display: inline-block;
+  width: 33%;
+  padding: 30px 0 30px 0
+}
+
+.img {
+  margin: 0 0 0 30px;
+}
+
+.rmn {
+  z-index: 3;
+  background-color: #2F4600;
+}
+.fmn {
+  z-index: 2;
+  background-color: #2F4600;
+}
+
+.ns {
+  color: #2F4600;
+}
+
+.nm {
+  margin: 0;
+}
+
+.text {
+  margin-top: 30px
+}
+
+.large_text {
+  margin-top: 30px;
+  font-size: 35px;
+}
+
+.obg {
+  background-image: url("Orangutan.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+
+.ri {
+  height: 100%;
+  width: 100%;
+  max-width: 1350px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rbg {
+  background-image: url("rainforest_img_cropped.png");
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+
+.bbg {
+  background-color: white;
+}
+
+body {
+  margin: auto;
+}
+
+.centre {
+  text-align
+}
+
+.footer {
+  color: white;
+  background-image: url("3D386BBB-1A8C-4CEE-B812-F54FC53F1E7B.jpeg");
+  margin: 0 0 0 0;
+  text-align: center;
+  bottom: 0;
+  background-width: 100%;
+  font-size: 23px;
+}
+
+
+h2 {
+  margin: 0 0 0 30px;
+}
+h3 {
+  margin: 0 0 0 30px;
+}
+
+
+
+.hd {
+  border-bottom: 1px solid;
+  width: 100%;
+  z-index: 1;
+  background-color: #2F4600;
+  margin: 0 0 0 0
+}
+
+.heading-background {
+  background-color: #2F4600;
+  z-index: 1
+}
+
+.colorchange {
+  color: maroon;
+}
+
+#uppercase {
+  text-transform: uppercase;
+}
+
+#cursive {
+  font-family: cursive;
+}
+
+[href]{
+  color: #A2C523
+}
+
 img[src*='nationalzoo'] {
   height: 75px;
 }
