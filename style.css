@@ -85,7 +85,10 @@ li {
 
 .bbg {
   background-image: url("IMG_6110.jpeg");
-  color: grey;
+}
+
+.white_text {
+  color: white
 }
 
 body {
