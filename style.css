@@ -87,8 +87,9 @@ li {
   background-image: url("IMG_6110.jpeg");
 }
 
-.white_text p {
-  color: white
+.grey_text p {
+  color: grey;
+  margin-top: 30px;
 }
 
 body {
