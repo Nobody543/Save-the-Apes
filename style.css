@@ -1,5 +1,5 @@
 p {
-  color: grey;
+  color: white;
   margin: 0 0 0 30px;
   font-size: 23px
 }
@@ -85,6 +85,7 @@ li {
 
 .bbg {
   background-image: url("IMG_6110.jpeg");
+  color: grey;
 }
 
 body {
