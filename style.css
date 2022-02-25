@@ -88,6 +88,10 @@ li {
 }
 
 .bbg {
+  background-color: white;
+}
+
+.mid {
   background-image: url("IMG_6551.jpeg");
 }
 
