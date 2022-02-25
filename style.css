@@ -53,7 +53,7 @@ li {
 }
 
 .text p {
-  color: #39373f
+  color: #464646
 }
 
 .large_text {
@@ -93,6 +93,12 @@ li {
 
 .mid {
   background-image: url("IMG_6551.jpeg");
+  background-repeat: repeat;
+  background-width: 100%;
+}
+
+.mid p {
+  color: black;
 }
 
 body {
