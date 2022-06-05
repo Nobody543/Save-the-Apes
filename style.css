@@ -201,9 +201,19 @@ img[src*='nationalzoo'] {
   height: 75px;
 }
 
-a:hover {
+.link {
+  color: blue
+}
+
+.link:visited {
+  color: blue
+}
+
+.link:hover {
   color: darkorange;
 }
+
+
 
 h2.destination {
   font-family: Tahoma;
