@@ -55,10 +55,14 @@ li {
   margin: 0;
 }
 
-li .p_format {
+.p_format {
   color: white;
   margin: 0 0 0 30px;
-  font-size: 23px
+  font-size: 23px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  text-align: left;
 }
 
 .text {
