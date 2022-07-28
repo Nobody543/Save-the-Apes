@@ -227,24 +227,13 @@ header [href]{
 }
 
 [href]{
-  color: blue
+  color: orange
 }
 
 img[src*='nationalzoo'] {
   height: 75px;
 }
 
-.link {
-  color: blue
-}
-
-.link:visited {
-  color: blue
-}
-
-.link:hover {
-  color: darkorange;
-}
 
 
 
