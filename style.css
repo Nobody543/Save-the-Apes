@@ -218,8 +218,16 @@ h3 {
   font-family: cursive;
 }
 
-[href]{
+header [href]{
   color: #A2C523
+}
+
+.footer [href]{
+  color: #A2C523
+}
+
+[href]{
+  color: blue
 }
 
 img[src*='nationalzoo'] {
