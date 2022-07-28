@@ -67,7 +67,7 @@
 
 
 
-  <div class='text'>
+  <div class='text reveal'>
     <p class='large_text'>Save the apes is a non-profit organisation that is designed to educate both younger and older generations about the issues facing great apes and how to help. Most of the issues discussed will be anthropogenic. This means that they were caused by humans. Save the apes believes that no unnatural harm should come to animals due to human greed, and so, we have dedicated this website to teaching people not only what issues are facing these apes, but also how you can do your part in helping to stop any more of this damage from occurring, maybe even helping to reverse the damage that has been done already.</p>
     <br>
     <br>
@@ -92,4 +92,28 @@
       <li><a href="sources.html" class='footer'>Sources</a></li>
     </ul>
   </div>
+  
+  <script type="text/javascript">
+    window.addEventListener('scroll', reveal);
+    
+    function reveal(){
+      var reveals = document.querySelectorAll('.reveal')
+      
+      for(var i=0; i < reveals.length; i++){
+        
+        var windowheight = window.innerHeight;
+        var revealtop = reveals[i].getBoundingClientRect().top;
+        var revealpoint = 150;
+        
+        if(revealtop < windowheight - revealpoint){
+          reveals[i].classList.add('active');
+        }
+        else{
+          reveals[i].classList.remove('active');
+        }
+      }
+    }
+  </script>
+  
 </body>
+</html>
