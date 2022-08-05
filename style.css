@@ -4,6 +4,9 @@ p {
   font-size: 23px
 }
 
+* {
+  font-family: arial;
+}
 
 header {
   position: fixed;
@@ -18,7 +21,7 @@ ul {
   margin: 0px auto;
 }
 li {
-  font-family: sans-serif;
+  font-family: arial;
   color: #3EF948;
   font-size: 35px;
   font-weight: 300;
