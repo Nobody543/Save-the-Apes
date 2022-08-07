@@ -94,6 +94,13 @@ li {
   border: 3px solid black;
 }
 
+.sourcesText {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 .wtext {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -279,6 +286,10 @@ h3,
   .hd {
     display: none;
   }
+  
+  .sourcesText {
+    border: 0;
+  }
 }
 
 @media only screen and (min-width: 837px) {
@@ -289,6 +300,10 @@ h3,
 @media only screen and (min-width: 837px) {
   .fmn {
     display: none;
+  }
+  
+  .sourcesText {
+    border: 3px solid black;
   }
 }
 @media only screen and (max-width: 990px) {
