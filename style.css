@@ -163,11 +163,11 @@ li {
 }
 
 .pob {
-  background-image: url("Palm_oil_plantation_cropped.jpg");
-  background-position: center;
+  background-image: url("IMG_6808.jpeg");
+  background-position: center bottom;
   height: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto 120%;
   margin: auto;
 }
 
