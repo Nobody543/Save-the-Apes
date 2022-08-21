@@ -50,6 +50,19 @@ li {
   background-color: #2F4600;
 }
 
+.rmn header ul ul li {
+  display: block;
+  padding-top: 10px;
+  text-align: centre;
+  width: 100%;
+}
+.fmn header ul ul li {
+  display: block;
+  padding-top: 10px;
+  text-align: centre;
+  width: 100%;
+}
+
 .ns {
   color: #2F4600;
 }
