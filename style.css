@@ -71,6 +71,11 @@ li {
   margin: 0;
 }
 
+ul.nm li {
+  display: inline;
+  width: 50%;
+}
+
 .p_format {
   color: white;
   margin: 0 0 0 30px;
