@@ -42,11 +42,10 @@ li {
 }
 
 .imgWYCDtop {
-  margin: 0;
-  width: 16%;
+  width: 17%;
   max-height: 200px;
-  object-position: center;
-  
+  display: inline;
+  padding: 1%;
 }
 
 .img_w43 {
