@@ -43,8 +43,10 @@ li {
 
 .imgWYCDtop {
   margin: 0 0 0 30px;
-  max-width: 15%;
-  height: 200px;
+  width: 18%;
+  max-height: 200px;
+  object-position: center;
+  
 }
 
 .img_w43 {
