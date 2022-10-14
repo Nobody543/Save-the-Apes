@@ -273,6 +273,28 @@ h3 {
   font-family: cursive;
 }
 
+#l1 {
+  scroll-margin-top: 100px;
+}
+
+#l2 {
+  scroll-margin-top: 100px;
+}
+
+#l3 {
+  scroll-margin-top: 100px;
+}
+
+#l4 {
+  scroll-margin-top: 100px;
+}
+
+#l5 {
+  scroll-margin-top: 100px;
+}
+
+
+
 header [href]{
   color: #A2C523
 }
