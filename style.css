@@ -51,6 +51,8 @@ li {
 ul li .fifthLengthWYCD {
   display: inline-block;
   width: 20%;
+  margin: 0;
+  font-size: 30px;
 }
 
 
