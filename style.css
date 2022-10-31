@@ -48,6 +48,12 @@ li {
   padding: 1%;
 }
 
+ul li .fifthLengthWYCD {
+  display: inline-block;
+  width: 20%;
+}
+
+
 .img_w43 {
   width: 43%;
   margin: 0 0 0 30px;
