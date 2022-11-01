@@ -46,12 +46,14 @@ li {
   max-height: 200px;
   display: inline;
   padding: 1%;
+  text-align: center;
 }
 
 .fullLengthWYCD {
   width: 100%;
   padding: 1%;
   margin: 0 0 0 0;
+  text-align: center;
 }
 
 .fifthLengthWYCD {
@@ -62,6 +64,7 @@ li {
   padding: 0 0 0 0;
   color: white;
   font-size: 27px;
+  text-align: center;
 }
 
 
