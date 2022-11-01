@@ -50,13 +50,13 @@ li {
 
 fullLengthWYCD {
   width: 100%;
-  padding: 0 0 0 0;
+  padding: 1%;
   margin: 0 0 0 0;
 }
 
 .fifthLengthWYCD {
   display: inline-block;
-  width: 18%;
+  width: 17%;
   margin: 0 0 0 0;
   font-size: 30px;
   padding: 0 0 0 0;
@@ -90,7 +90,7 @@ fullLengthWYCD {
   padding-top: 10px;
   text-align: centre;
   width: 100%;
-}
+}`
 
 .ns {
   color: #2F4600;
