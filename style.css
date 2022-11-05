@@ -37,6 +37,7 @@ li {
   z-index: 11;
 }
 
+
 .img {
   margin: 0 0 0 30px;
 }
@@ -48,25 +49,23 @@ li {
   padding: 1%;
   text-align: center;
 }
-
+.center {
+  text-align: center;
+}
 .fullLengthWYCD {
   width: 100%;
-  padding: 1%;
   margin: 0 0 0 0;
   text-align: center;
 }
-
 .fifthLengthWYCD {
   display: inline-block;
-  width: 18%;
+  width: 17%;
   margin: 0 0 0 0;
-  font-size: 30px;
-  padding: 0 0 0 0;
+  padding: 1%;
   color: white;
   font-size: 27px;
   text-align: center;
 }
-
 
 .img_w43 {
   width: 43%;
