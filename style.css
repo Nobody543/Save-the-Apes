@@ -1,7 +1,7 @@
 p {
   color: white;
   margin: 0 0 0 30px;
-  font-size: 23px
+  font-size: 23px;
 }
 
 * {
@@ -198,6 +198,10 @@ ul.nm li {
   width: 90%;
   overflow-wrap: break-word;
   font-size: 18px;
+}
+
+.WYCDText {
+  padding: 0 5% 0 5%;
 }
 
 .obg {
