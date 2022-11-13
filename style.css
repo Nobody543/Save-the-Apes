@@ -227,11 +227,11 @@ ul.nm li {
 }
 
 .pob {
-  background-image: url("IMG_6808.jpeg");
-  background-position: center bottom;
+  background-image: url("936B7F98-58C8-430A-BA50-C95F5D38056B.jpeg");
+  background-position: center;
   height: 100%;
   background-repeat: no-repeat;
-  background-size: auto 120%;
+  background-size: cover;
   margin: auto;
 }
 
