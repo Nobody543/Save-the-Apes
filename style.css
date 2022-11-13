@@ -116,21 +116,20 @@ ul.nm li {
 
 .p_format {
   color: white;
-  margin: 0 0 0 30px;
+  margin: 0 0 0 7.5%;
   font-size: 23px;
   display: block;
-  width: 100%;
+  width: 92.5%;
   padding: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 .p_format_other {
   color: white;
-  margin: 0 0 0 30px;
   font-size: 23px;
   width: 100%;
   padding: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 .p_format_other_other {
@@ -139,7 +138,7 @@ ul.nm li {
   font-size: 23px;
   width: 100%;
   padding: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 .text {
