@@ -82,6 +82,10 @@ li {
   height: 200px
 }
 
+.halfWidth {
+  width: 50%
+}
+
 .rmn {
   z-index: 3;
   background-color: #2F4600;
