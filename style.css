@@ -154,7 +154,6 @@ ul.nm li {
   margin-bottom: 30px;
   margin-left: 30px;
   margin-right: 30px;
-  border: 3px solid black;
 }
 
 .part1 {
@@ -450,6 +449,11 @@ h3,
   }
   .large_text {
     font-size: 16px;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .text {
+    border: 3px solid black;
   }
 }
 
